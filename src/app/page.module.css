@@ -8,7 +8,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 
-    padding-top: 7%;
+    padding-top: 5%;
     padding-bottom: 7%;
 
 }
@@ -16,58 +16,9 @@
 .maincontainer{
     display: flex;
     flex-direction: column;
-    gap: 10vh;
+    gap: 6vh;
   }
 
-.headersection{
-    background-color: #6F7C43;
-    border: 1px solid whitesmoke;
-    padding: 5%;
-    margin: 2%;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: auto;
-    gap: 5%;
-}
 
-.milllogo{
-    background-image: url('/assets/windmillwhite_big.png');
-    width: 164px;
-    height: 164px;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
-.kontaktsection{
-    background-color: #6F7C43;
-    border: 1px solid whitesmoke;
-    padding: 5%;
-    margin: 2%;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: auto;
-    gap: 15%;
-
-    color: antiquewhite;
-}
-
-.contactlogo{
-    background-image: url('/assets/contactbig.png');
-    width: 164px;
-    height: 164px;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.heins{
-    color: whitesmoke;
-}
-
-.link{
-    color: antiquewhite;
-    text-decoration: none;
-}

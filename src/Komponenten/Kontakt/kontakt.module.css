@@ -1,0 +1,26 @@
+.kontaktsection{
+    background-color: #6F7C43;
+    border: 1px solid antiquewhite;
+    padding: 5%;
+    margin: 2%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    gap: 15%;
+
+    color: antiquewhite;
+}
+
+.contactlogo{
+    background-image: url('/assets/contactbig.png');
+    width: 164px;
+    height: 164px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.link{
+    color: antiquewhite;
+    text-decoration: none;
+}

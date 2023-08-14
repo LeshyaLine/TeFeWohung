@@ -1,0 +1,26 @@
+.headersection{
+    background-color: #6F7C43;
+    border: 1px solid whitesmoke;
+    padding: 5%;
+    margin: 2%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    gap: 5%;
+}
+
+.milllogo{
+    background-image: url('/assets/windmillwhite_big.png');
+    width: 164px;
+    height: 164px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heins{
+    color: whitesmoke;
+    font-size: 2rem;
+    text-decoration: underline;
+}

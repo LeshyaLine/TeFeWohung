@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Technikerwohnung an der alten Mühle',
   description: 'Erstellt von Dani-Line',
+  
 }
 
 export default function RootLayout({ children }) {
